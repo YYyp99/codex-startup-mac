@@ -1,0 +1,38 @@
+{
+  "repository": "6shenhonghong9/dsh-startup-screen",
+  "commit": "8ec3132e69f0906b3ed2f7eb083b1035cd69c1d4",
+  "assets": {
+    "line-1.mp3": {
+      "path": "lib/assets/line-1.mp3",
+      "sha256": "ec3afe38d6df4664a8948b4046e4c124c534f27092e97dfc3948e11ff8212934"
+    },
+    "line-2.mp3": {
+      "path": "lib/assets/line-2.mp3",
+      "sha256": "8d045168d150ff57c5f15af14644eaaba0d244694e3fae0ba31313a2c57c6d44"
+    },
+    "line-3.mp3": {
+      "path": "lib/assets/line-3.mp3",
+      "sha256": "c490d5218f36f51680e9b9e02bdb6ca285ef0e0ca13f04c491a53e1308470680"
+    },
+    "line-4.mp3": {
+      "path": "lib/assets/line-4.mp3",
+      "sha256": "bbfa0d757843451df6e7d306630bf582657dea36f2c4952bb2773496dd5d4637"
+    },
+    "line-5.mp3": {
+      "path": "lib/assets/line-5.mp3",
+      "sha256": "97be9c44591af6f3ef0b7b8788f960e07df684e41236661dd9d2294639f2ae31"
+    },
+    "line-6.mp3": {
+      "path": "lib/assets/line-6.mp3",
+      "sha256": "1cd13250722c1823326536d981c07d9e167e217c0b2559a80b5fb263ebb87633"
+    },
+    "sfx-tick.mp3": {
+      "path": "lib/assets/sfx-tick.mp3",
+      "sha256": "4b808e21d8f4751d3ba20bfe58fc754b832694b48bf62b408b86a7a4a97e5804"
+    },
+    "sfx-ticks-run.mp3": {
+      "path": "lib/assets/sfx-ticks-run.mp3",
+      "sha256": "6938b409be952fb60b1a56d2162effa2f631254d05a25fd69be76233a7f8dd9f"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codex-startup-mac",
+  "version": "1.5.0",
+  "private": true,
+  "description": "Personalized Mac startup animation launcher for Codex",
+  "type": "module",
+  "scripts": {
+    "test": "node test/smoke-splash.mjs"
+  },
+  "license": "MIT"
+}

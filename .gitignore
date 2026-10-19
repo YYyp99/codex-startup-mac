@@ -1,0 +1,15 @@
+.DS_Store
+build/
+.build/
+lib/assets/*.mp3
+node_modules/
+*.log
+*.app/
+*.zip
+*.dmg
+*.p12
+*.mobileprovision
+.env
+.env.*
+__pycache__/
+*.pyc
